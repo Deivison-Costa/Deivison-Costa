@@ -8,8 +8,6 @@
 ### 📝Commits
 ![snake gif](https://github.com/Deivison-Costa/Deivison-Costa/blob/output/github-contribution-grid-snake-dark.svg)
 
----
-
 ### 📚 Education
 
 🎓 Completed High School + Computer Technician: 2017-2019
