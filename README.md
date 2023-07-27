@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivison-Costa&layout=compact&theme=radical)](https://github.com/Deivison-Costa)
 
 ### 📝Commits
-![snake gif](https://github.com/Deivison-Costa/Deivison-Costa/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://github.com/Deivison-Costa/Deivison-Costa/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### 📚 Education
 
