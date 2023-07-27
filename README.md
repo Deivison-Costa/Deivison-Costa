@@ -14,7 +14,7 @@
 
 🎓 Currently Pursuing: Bachelor's in Computer Engineering - 8th Semester
 
-🔭 Current Focus: I'm currently working on personal projects and honing my programming skills to become a proficient software developer. 👨‍💻
+🔭 Current Focus: I'm currently working on personal projects and honing my programming skills to become a proficient software developer.
 
 ---
 
