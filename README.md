@@ -37,7 +37,9 @@ Feel free to ask me anything related to programming, computer engineering, or an
 
 ### 👉 LinkedIn 
 
-![Deivison Costa](https://www.linkedin.com/in/deivison-costa/)
+For a more detailed look at my professional journey, check out my LinkedIn profile: 
+
+[Deivison Oliveira Costa](https://www.linkedin.com/in/deivison-costa/)
 
 ---
 
@@ -46,4 +48,3 @@ Feel free to ask me anything related to programming, computer engineering, or an
 You can contact me through the following channels:
 
 📧 Email: deivisombambui@gmail.com
-
