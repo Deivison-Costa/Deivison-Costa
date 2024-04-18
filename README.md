@@ -13,7 +13,7 @@
 
 🎓 Completed High School + Computer Technician: 2017-2019
 
-🎓 Currently Pursuing: Bachelor's in Computer Engineering - 8th Semester
+🎓 Currently Pursuing: Bachelor's in Computer Engineering - 9th Semester
 
 ---
 
