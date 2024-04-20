@@ -4,7 +4,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deivison-Costa&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivison-Costa&layout=compact&theme=tokyonight&exclude_repo=Secure-Login-System,Frequency-Domain-Filtering)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivison-Costa&layout=compact&theme=tokyonight&exclude_repo=Secure-Login-System,Frequency-Domain-Filtering,TCC)
 
 ### ✨ Contributions
 ![Snake Animation](https://github.com/Deivison-Costa/Deivison-Costa/blob/output/github-contribution-grid-snake-dark.svg)
