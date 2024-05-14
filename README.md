@@ -18,13 +18,13 @@
 ---
 
 ### 🔭 Current Focus 
-I'm currently working on personal projects and honing my programming skills to become a proficient software developer! 👨‍💻
+I'm currently working on some projects and improving my programming skills at bootcamps and hackathons! 👨‍💻
 
 ---
 
 ### 👯 Collaboration
 
-I'm enthusiastic about collaborating on interesting and innovative projects. If you have a cool idea, feel free to reach out to me! Let's create something awesome together! 🤝
+I'm enthusiastic about collaborating on interesting and innovative projects. If you have a cool idea, feel free to reach out to me! Let's create something together! 🤝
 
 ---
 
