@@ -46,4 +46,4 @@ For a more detailed look at my professional journey, check out my LinkedIn profi
 
 You can contact me through the following channels:
 
-📧 Email: deivisombambui@gmail.com
+📧 Email: deivisonbambui@gmail.com
