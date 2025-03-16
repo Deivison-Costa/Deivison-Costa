@@ -11,9 +11,9 @@
 
 ### 📚 Education
 
-🎓 Completed High School + Computer Technician: 2017-2019
+🎓 High School + Computer Technician: 2017-2019
 
-🎓 Currently Pursuing: Bachelor's in Computer Engineering - 9th Semester
+🎓 Bachelor's in Computer Engineering: 2020-2025
 
 ---
 
